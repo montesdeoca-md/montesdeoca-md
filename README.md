@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Conrado Montes de Oca
+# 👨🏻‍🔬 ¡Hola! Soy Conrado Montes de Oca
 
 Soy **médico, bioestadístico y científico de datos certificado**, apasionado por transformar datos clínicos en conocimiento útil y accesible. Mi trabajo combina el rigor científico con la claridad didáctica, buscando que la estadística y el análisis de datos sean herramientas prácticas para médicos y profesionales de la salud.
 
