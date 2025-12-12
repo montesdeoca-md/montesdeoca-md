@@ -4,13 +4,15 @@ Soy **médico, bioestadístico y científico de datos certificado**, apasionado 
 
 ---
 
-## 🚀 Tecnologías 
+## 🚀 Tecnologías y Lenguajes
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 
 ---
 
@@ -34,6 +36,6 @@ Soy **médico, bioestadístico y científico de datos certificado**, apasionado 
 
 ## 💡 Mi misión
 
-Creo firmemente que la estadística no debe ser un obstáculo, sino un puente hacia mejores decisiones médicas. Por eso comparto mis recursos y proyectos con la intención de **hacer más sencilla y clara la estadística para médicos y personal de la salud**, contribuyendo a una práctica clínica más informada y accesible.
+Creo firmemente que la estadística no debe ser un obstáculo, sino un puente hacia mejores decisiones en el área de la salud y la biología. Por eso comparto mis recursos y proyectos con la intención de **hacer más sencilla y clara la estadística para médicos y personal de la salud**, contribuyendo a una práctica clínica más informada y accesible.
 
 ---
