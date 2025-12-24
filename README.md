@@ -64,8 +64,8 @@ Además soy el creador de **SysReviewR** una librería en R para permitir a los 
 ## 📂 Qué encontrarás en mi GitHub
 
 -   El repositorio oficial de ``SysReviewR``
--   Material suplementario de mis **publicaciones académicas**\
--   Ejemplos de proyectos de **análisis de datos** y **ciencia de datos**\
+-   Material suplementario de mis **publicaciones académicas**
+-   Ejemplos de proyectos de **análisis de datos** y **ciencia de datos**
 -   Códigos de análisis reproducibles y adaptados para enseñanza y práctica clínica
 
 ------------------------------------------------------------------------
