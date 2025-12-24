@@ -70,17 +70,19 @@ Además soy el creador de **SysReviewR** una librería en R para permitir a los 
 
 ------------------------------------------------------------------------
 
-<img src="Figures/Week.png " align="right" width="10%" height="10%"/>
-
 ## 📚 ¿Deseas mejorar en R? 
+
+<img src="Figures/Week.png " align="right" width="15%" height="15%"/>
 
 He creado un repositorio llamado [Weekly Challanges in R](https://github.com/montesdeoca-md/Weekly_Challange_R)
 en el cuál semana con semana iré publicando ejercicios para que mejores en R, estadística y Data Science.
 
-------------------------------------------------------------------------
+Creo firmemente que la estadística no debe ser un obstáculo, sino un puente hacia mejores decisiones 
+en el área de la salud y la biología. Por eso comparto mis recursos y ejercicios 
+con la intención 
+de **hacer más sencilla y clara la estadística para todos aqellos interesados**, 
+contribuyendo a una práctica científica más informada y accesible.
 
-## 💡 Mi misión
 
-Creo firmemente que la estadística no debe ser un obstáculo, sino un puente hacia mejores decisiones en el área de la salud y la biología. Por eso comparto mis recursos y proyectos con la intención de **hacer más sencilla y clara la estadística para médicos y personal de la salud**, contribuyendo a una práctica clínica más informada y accesible.
 
 ------------------------------------------------------------------------
