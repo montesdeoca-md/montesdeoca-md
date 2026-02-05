@@ -8,6 +8,13 @@ Además soy el creador de **SysReviewR** una librería en R para permitir a los 
 
 ------------------------------------------------------------------------
 
+## Proyectos: 
+
+- [The International Stroke Trial:](https://montesdeoca-md.github.io/Portfolio-International-Stroke-Trial/) Reanálisis de uno de los ensayos clínicos aleatorizados sobre Stroke más grandes jamás realizados. 
+
+------------------------------------------------------------------------
+
+
 ## Tecnologías y Lenguajes
 
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=blue)
